@@ -1,0 +1,101 @@
+paciente,data,hora,duracao,especialidade,convenio,numero_consultas
+Dra. Mariane das Neves,2023-12-09,03:47:29,60,Dermatologia,Bradesco Saúde,1
+Dra. Luna Cunha,2023-12-09,01:17:20,30,Oftalmologia,Bradesco Saúde,3
+Fernanda Moraes,2023-11-29,04:22:02,30,Ginecologia,Bradesco Saúde,3
+João Felipe Alves,2023-12-11,22:05:11,30,Ginecologia,Amil,1
+Sofia da Cunha,2023-11-23,20:20:45,30,Cardiologia,Bradesco Saúde,2
+Theo da Costa,2023-11-25,21:40:02,60,Cardiologia,Amil,1
+Lucca Sales,2023-12-03,15:16:35,30,Dermatologia,SulAmérica,3
+Davi Luiz Souza,2023-11-21,02:55:16,30,Oftalmologia,Amil,2
+Augusto Ramos,2023-12-01,19:02:07,60,Cardiologia,Bradesco Saúde,1
+Marcelo Fogaça,2023-11-18,11:33:42,30,Ginecologia,Unimed,1
+Luigi da Mata,2023-12-17,11:00:56,60,Cardiologia,Unimed,3
+Dr. Pietro Rezende,2023-12-12,23:30:05,60,Dermatologia,SulAmérica,2
+Samuel da Luz,2023-12-15,23:41:49,30,Dermatologia,Bradesco Saúde,3
+Luiz Miguel da Cunha,2023-12-09,19:00:37,30,Oftalmologia,SulAmérica,2
+Isabella Novaes,2023-12-05,02:41:43,60,Oftalmologia,Amil,1
+Bianca Cavalcanti,2023-11-24,03:00:42,30,Dermatologia,Unimed,3
+Lívia Correia,2023-11-22,00:09:13,60,Oftalmologia,SulAmérica,3
+Giovanna Cunha,2023-11-29,15:36:53,30,Ginecologia,Bradesco Saúde,2
+Natália Farias,2023-12-05,06:27:35,30,Dermatologia,Bradesco Saúde,1
+Luiz Fernando Lima,2023-12-03,05:43:25,30,Dermatologia,Amil,3
+Luigi Teixeira,2023-12-12,23:08:43,30,Dermatologia,Amil,3
+Joana Barros,2023-12-06,12:03:31,60,Cardiologia,Bradesco Saúde,3
+Rafaela Cavalcanti,2023-11-21,15:23:02,30,Dermatologia,Bradesco Saúde,1
+Mariane Cardoso,2023-12-11,05:33:44,30,Ginecologia,Unimed,3
+Kevin Mendes,2023-12-04,06:06:37,30,Oftalmologia,Bradesco Saúde,2
+Sr. Henrique Porto,2023-11-27,01:04:50,60,Cardiologia,Unimed,3
+João Vitor Campos,2023-11-21,11:01:25,30,Ginecologia,SulAmérica,3
+Isabelly Dias,2023-12-10,06:33:29,60,Dermatologia,Bradesco Saúde,2
+Luiza Duarte,2023-12-15,06:02:23,60,Oftalmologia,Bradesco Saúde,2
+Maria Vitória Silva,2023-12-05,13:06:09,30,Oftalmologia,Amil,1
+Isadora Novaes,2023-12-03,14:01:01,60,Cardiologia,Bradesco Saúde,3
+Sr. Pietro Silva,2023-12-07,21:30:37,60,Oftalmologia,Amil,1
+Bianca Mendes,2023-11-30,21:18:43,60,Cardiologia,Unimed,2
+Milena Barros,2023-12-05,02:04:57,60,Dermatologia,Bradesco Saúde,2
+Daniel Novaes,2023-12-01,03:26:26,30,Ginecologia,SulAmérica,2
+Stephany Azevedo,2023-11-28,07:02:34,30,Cardiologia,Unimed,2
+João Vitor Dias,2023-12-01,06:49:40,60,Cardiologia,Amil,2
+Yasmin Freitas,2023-12-01,00:01:15,30,Cardiologia,Bradesco Saúde,2
+Sra. Melissa Melo,2023-11-25,21:27:26,30,Dermatologia,Amil,2
+Júlia Peixoto,2023-12-14,07:34:12,30,Oftalmologia,SulAmérica,1
+Larissa Teixeira,2023-11-18,02:42:13,60,Oftalmologia,SulAmérica,3
+Vicente Oliveira,2023-12-16,23:29:53,60,Dermatologia,Amil,2
+Breno Teixeira,2023-12-05,06:33:59,60,Cardiologia,Unimed,1
+Ana Laura Silva,2023-12-02,23:38:50,30,Ginecologia,Amil,3
+Brenda Almeida,2023-12-16,08:43:02,60,Ginecologia,Amil,1
+Dra. Pietra Pereira,2023-11-26,11:10:08,60,Ginecologia,SulAmérica,3
+Dra. Esther Vieira,2023-11-28,05:24:24,30,Dermatologia,Bradesco Saúde,1
+Fernando Costela,2023-11-28,06:40:19,30,Cardiologia,Amil,3
+Cauã Cardoso,2023-11-26,00:14:19,30,Oftalmologia,Unimed,3
+Heloísa da Rocha,2023-11-19,00:32:16,60,Ginecologia,SulAmérica,2
+Dra. Bianca da Mata,2023-11-27,04:06:32,30,Cardiologia,Bradesco Saúde,3
+Pedro Ferreira,2023-11-18,17:18:19,60,Dermatologia,Bradesco Saúde,3
+Renan Dias,2023-11-24,08:53:24,60,Ginecologia,Unimed,2
+Maria Mendes,2023-11-29,06:51:33,30,Dermatologia,Bradesco Saúde,2
+Emanuelly Nunes,2023-12-14,06:24:52,60,Dermatologia,Unimed,3
+Sr. Isaac Melo,2023-12-17,17:49:09,30,Cardiologia,SulAmérica,3
+Marcela Lima,2023-12-10,02:02:23,60,Cardiologia,Bradesco Saúde,3
+Alana Peixoto,2023-12-08,03:20:14,30,Oftalmologia,Bradesco Saúde,3
+Igor Pereira,2023-12-04,21:59:49,30,Dermatologia,Bradesco Saúde,1
+Samuel Azevedo,2023-12-10,14:22:14,30,Ginecologia,SulAmérica,2
+Sra. Eloah Teixeira,2023-11-18,22:01:25,60,Cardiologia,SulAmérica,2
+Isabel da Mata,2023-11-21,08:05:22,60,Oftalmologia,Unimed,1
+Luiz Felipe Viana,2023-12-11,13:15:57,30,Cardiologia,Amil,2
+Nicolas Pinto,2023-11-22,23:23:37,60,Ginecologia,Bradesco Saúde,3
+Emanuella da Paz,2023-11-24,18:50:46,30,Cardiologia,SulAmérica,1
+Leandro Fogaça,2023-12-04,05:30:50,30,Ginecologia,Bradesco Saúde,2
+Kevin Silveira,2023-11-27,23:34:15,60,Ginecologia,Bradesco Saúde,1
+Laís Jesus,2023-11-30,12:48:13,30,Oftalmologia,Amil,1
+Marcela Porto,2023-11-19,11:03:45,30,Dermatologia,Bradesco Saúde,2
+Sr. Davi Lucca Cardoso,2023-12-13,16:53:26,30,Cardiologia,Unimed,1
+Kaique da Mota,2023-11-21,03:40:51,30,Oftalmologia,Amil,1
+Felipe Ferreira,2023-12-06,05:23:53,60,Cardiologia,Unimed,3
+Otávio Moura,2023-12-15,07:39:23,30,Oftalmologia,SulAmérica,1
+Fernando Pires,2023-12-05,19:27:41,30,Oftalmologia,Amil,1
+Lucca Nogueira,2023-12-06,00:13:56,30,Ginecologia,SulAmérica,1
+Brenda Monteiro,2023-12-09,23:43:59,30,Cardiologia,Unimed,1
+Emanuella Cavalcanti,2023-11-23,07:56:17,60,Cardiologia,Unimed,1
+Gustavo Melo,2023-12-17,05:28:53,60,Cardiologia,Amil,2
+Alice Aragão,2023-12-05,02:11:41,30,Ginecologia,Bradesco Saúde,1
+Alice Almeida,2023-11-19,19:34:01,60,Cardiologia,SulAmérica,1
+Manuela Pinto,2023-11-30,16:43:37,60,Oftalmologia,Unimed,3
+Luiz Otávio Alves,2023-12-13,08:15:48,60,Ginecologia,SulAmérica,2
+Igor da Cruz,2023-12-06,07:21:42,60,Dermatologia,Bradesco Saúde,3
+Isabella da Cruz,2023-12-02,02:13:01,30,Ginecologia,Amil,2
+Emanuella Carvalho,2023-11-29,13:59:51,30,Dermatologia,Unimed,1
+Antônio Barbosa,2023-11-23,13:06:41,30,Ginecologia,Amil,2
+Dr. Theo Rocha,2023-11-28,20:58:51,30,Dermatologia,Bradesco Saúde,1
+Sr. João Gabriel Costa,2023-12-13,00:35:51,30,Ginecologia,Unimed,2
+Luiz Felipe Costa,2023-12-16,06:37:30,60,Oftalmologia,SulAmérica,1
+Srta. Ana Clara Viana,2023-11-23,09:00:59,60,Cardiologia,Amil,3
+Maitê Freitas,2023-12-01,23:39:15,60,Dermatologia,Amil,1
+Alexandre Moreira,2023-12-09,11:10:58,30,Dermatologia,SulAmérica,1
+Pietra Cunha,2023-11-27,09:30:10,60,Cardiologia,Bradesco Saúde,2
+Emanuel Cavalcanti,2023-12-03,07:23:04,30,Ginecologia,Unimed,3
+Sr. Pedro Porto,2023-12-06,17:06:21,60,Dermatologia,Bradesco Saúde,1
+João Gabriel Costa,2023-11-22,17:49:32,30,Cardiologia,Unimed,2
+Paulo das Neves,2023-11-29,01:19:16,60,Dermatologia,Amil,2
+Mariana Porto,2023-11-29,15:38:24,30,Cardiologia,SulAmérica,1
+Srta. Rafaela Moraes,2023-12-09,20:04:06,60,Oftalmologia,Unimed,1
+Eduarda Rodrigues,2023-11-25,17:45:27,30,Ginecologia,Bradesco Saúde,2
